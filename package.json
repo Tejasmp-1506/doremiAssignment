@@ -1,0 +1,25 @@
+{
+  "name": "doremiassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node geektrust.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejasmp-1506/doremiAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tejasmp-1506/doremiAssignment/issues"
+  },
+  "homepage": "https://github.com/Tejasmp-1506/doremiAssignment#readme",
+  "dependencies": {
+    "modules": "^0.4.0",
+    "moment": "^2.29.4"
+  }
+}
